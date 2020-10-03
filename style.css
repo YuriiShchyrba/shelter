@@ -1,0 +1,121 @@
+html{
+    font-size: 10px;
+}
+
+.wrapper{
+    max-width: 1280px;
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header__wrapper{
+    display: flex;
+    background-color: grey;
+}
+
+
+.logo{
+    padding-top: 31px;
+    padding-left: 44px;
+}
+
+.logo h2{
+    font: 32px Georgia, serif;
+    color: #F1CDB3;
+    letter-spacing: 1.4px;
+    margin-bottom: 0;
+}
+
+.logo p{
+    font-size: 15px;
+    margin-top: 0;
+    padding-top: 10px;
+    color: #FFFFFF;
+    letter-spacing: 1px;
+}
+
+.header__navigation ul{
+    list-style: none;
+    padding-left: 571px;
+    display: flex;
+}
+
+.header__navigation ul li{
+    padding-right: 35px;
+    padding-top: 67px;
+    font-size: 15px;
+    font-family: Arial;
+    letter-spacing: 0.1px;
+}
+
+.header__navigation ul li a{
+    color: white;
+
+}
+
+
+.pet-food{
+    background-image: url(assets/tool_pet-food.svg);
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+}
+
+.transportaion{
+    background-image: url(assets/tool_transportaion.svg);
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+}
+
+.toys{
+    background-image: url(assets/tool_toys.svg);
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+}
+
+.bowls-cups{
+    background-image: url(assets/tool_bowls-cups.svg);
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+}
+
+.shampoos{
+    background-image: url(assets/tool_shampoos.svg);
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+}
+
+.vitamins{
+    background-image: url(assets/tool_vitamins.svg);
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+}
+
+.medicines{
+    background-image: url(assets/tool_medicines.svg);
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+}
+
+.collars{
+    background-image: url(assets/tool_sleeping.svg);
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+}
+
+.sleeping{
+    background-image: url(assets/tool_sleeping.svg);
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+}
