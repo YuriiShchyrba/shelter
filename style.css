@@ -2,6 +2,11 @@ html{
     font-size: 10px;
 }
 
+body{
+    margin: 0;
+    padding: 0;
+}
+
 .wrapper{
     max-width: 1280px;
     margin: auto;
@@ -18,34 +23,35 @@ a{
 
 
 .logo{
-    padding-top: 31px;
-    padding-left: 44px;
+    padding-top: 28px;
+    padding-left: 43px;
 }
 
 .logo h2{
     font: 32px Georgia, serif;
     color: #F1CDB3;
-    letter-spacing: 1.4px;
+    letter-spacing: 1.6px;
     margin-bottom: 0;
 }
 
 .logo p{
     font-size: 15px;
     margin-top: 0;
-    padding-top: 10px;
+    padding-top: 7px;
     color: #FFFFFF;
     letter-spacing: 1px;
+    padding-left: 1px;
 }
 
 .header__navigation ul{
     list-style: none;
-    padding-left: 571px;
+    padding-left: 572px;
     display: flex;
 }
 
 .header__navigation ul li{
-    padding-right: 35px;
-    padding-top: 67px;
+    padding-right: 34px;
+    padding-top: 64px;
     font-size: 15px;
     font-family: Arial;
     letter-spacing: 0.1px;
@@ -54,6 +60,57 @@ a{
 .header__navigation ul li a{
     color: white;
 
+}
+
+
+.need__wrapper{
+    display: flex;
+}
+
+.need__content h1{
+    color: #FFFFFF;
+    padding: 173px 0 0 42px;
+    font: 44px Georgia,serif;
+    line-height: 55px;
+}
+
+.need__content p{
+    font: 15px Arial;
+    padding: 7px 0 0 40px;
+    line-height: 23px;
+    color: white;
+}
+
+.need__picture{
+    padding-top: 44px;
+    padding-left: 44px;
+}
+
+.about__wrapper{
+    display: flex;
+}
+
+.about__picture{
+    padding: 79px 0 0 214px;
+}
+
+.about__content{
+    padding: 55px 0 106px 120px;
+}
+
+.about__content h3{
+    font-size: 39px;
+    font-weight: 400;
+    font: 39px Georgia,serif;
+    letter-spacing: 0.3px;
+    margin-bottom: 0;
+}
+
+.about__content p{
+    padding-top: 10px;
+    font: 15px Arial, sans-serif;
+    letter-spacing: 0.0px;
+    line-height: 24px;
 }
 
 
