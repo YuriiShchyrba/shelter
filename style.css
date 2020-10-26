@@ -27,7 +27,7 @@ a{
 }
 
 .need__wrapper{
-    background-image: url(../assets/start-screen-gradient-background.png);
+    background-image: url(assets/start-screen-gradient-background.png);
 }
 
 
@@ -324,63 +324,63 @@ a{
 }
 
 .pet-food{
-    background-image: url(../assets/tool_pet-food.svg);
+    background-image: url(assets/tool_pet-food.svg);
     height: 60px;
     width: 60px;
     display: inline-block;
 }
 
 .transportaion{
-    background-image: url(../assets/tool_transportaion.svg);
+    background-image: url(assets/tool_transportaion.svg);
     height: 60px;
     width: 60px;
     display: inline-block;
 }
 
 .toys{
-    background-image: url(../assets/tool_toys.svg);
+    background-image: url(assets/tool_toys.svg);
     height: 60px;
     width: 60px;
     display: inline-block;
 }
 
 .bowls-cups{
-    background-image: url(../assets/tool_bowls-cups.svg);
+    background-image: url(assets/tool_bowls-cups.svg);
     height: 60px;
     width: 60px;
     display: inline-block;
 }
 
 .shampoos{
-    background-image: url(../assets/tool_shampoos.svg);
+    background-image: url(assets/tool_shampoos.svg);
     height: 60px;
     width: 60px;
     display: inline-block;
 }
 
 .vitamins{
-    background-image: url(../assets/tool_vitamins.svg);
+    background-image: url(assets/tool_vitamins.svg);
     height: 60px;
     width: 60px;
     display: inline-block;
 }
 
 .medicines{
-    background-image: url(../assets/tool_medicines.svg);
+    background-image: url(assets/tool_medicines.svg);
     height: 60px;
     width: 60px;
     display: inline-block;
 }
 
 .collars{
-    background-image: url(../assets/tool_sleeping.svg);
+    background-image: url(assets/tool_sleeping.svg);
     height: 60px;
     width: 60px;
     display: inline-block;
 }
 
 .sleeping{
-    background-image: url(../assets/tool_sleeping.svg);
+    background-image: url(assets/tool_sleeping.svg);
     height: 60px;
     width: 60px;
     display: inline-block;
@@ -426,7 +426,7 @@ a{
 }
 
 .credit-card{
-    background-image: url(../assets/credit-card.svg);
+    background-image: url(assets/credit-card.svg);
     width: 30px;
     height: 23px;
     display: inline-block;
@@ -481,21 +481,21 @@ a{
 }
 
 .email{
-    background-image: url(../assets/icon-email.svg);
+    background-image: url(assets/icon-email.svg);
     width: 40px;
     height: 29px;
     display: inline-block;
 }
 
 .phone{
-    background-image: url(../assets/icon-phone.svg);
+    background-image: url(assets/icon-phone.svg);
     width: 40px;
     height: 32px;
     display: inline-block;
 }
 
 .location{
-    background-image: url(../assets/icon-marker.svg);
+    background-image: url(assets/icon-marker.svg);
     width: 22px;
     height: 32px;
     display: inline-block;
