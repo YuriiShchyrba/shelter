@@ -1,0 +1,237 @@
+html{
+    font-size: 10px;
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    max-width: 1280px;
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header__wrapper{
+    display: flex;
+    background-color: #ffffff;
+}
+
+.logo{
+    padding: 3px 0px 0px 42px;
+}
+
+.logo h2{
+    font: 32px Georgia, serif;
+    color: #545454;
+    letter-spacing: 1.6px;
+    margin-bottom: 0;
+}
+
+.logo p{
+    font-size: 15px;
+    margin-top: 0;
+    padding-top: 8px;
+    color: #292929;
+    letter-spacing: 1px;
+    padding-left: 2px;
+}
+
+.header__navigation ul{
+    list-style: none;
+    padding-left: 572px;
+    display: flex;
+}
+
+.header__navigation ul li{
+    padding-right: 34px;
+    padding-top: 40px;
+    font-size: 15px;
+    font-family: Arial;
+    letter-spacing: 0.1px;
+}
+
+.header__navigation ul li a{
+    color: #545454;
+
+}
+
+
+.looking-house__wrapper{
+    background-color: #F6F6F6;
+}
+
+.looking-house__wrapper h3{
+    font: 35px Georgia, serif;
+    padding: 60px 0 0 444px;
+    letter-spacing: 2.1px;
+    line-height: 44px;
+    color: #545454;
+}
+
+.friends{
+    padding: 26px 0px 0px 40px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.friends .friend{
+    width: 270px;
+    height: 435px;
+    background-color: white;
+    margin-bottom: 30px;
+}
+
+.friends .friend h5{
+    margin: 0;
+    padding: 28px 0 0 1px;
+    font: 20px Georgia, serif;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #545454;
+}
+
+.friends .friend button{
+    margin-top: 31px;
+    margin-left: 41px;
+    padding: 13px 42px 14px 43px;
+    border: 2px solid #F1CDB3;
+    border-radius: 26px;
+    background-color: white;
+    font: 19px Georgia, serif;
+}
+
+.slider{
+    padding: 30px 0 100px 470px;
+}
+
+.slider button{
+    border-radius: 50%;
+    width: 52px;
+    height: 52px;
+    font-size: 22px;
+    margin-right: 17px;
+}
+
+.slider .passive-button{
+    border-color: #CDCDCD;
+    color: #CDCDCD;
+}
+
+
+.slider .button-counter{
+    border-color: #F1CDB3;
+    background-color: #F1CDB3;
+    color: #292929;
+}
+
+.slider .active-button{
+    border-color:#F1CDB3;
+    color: #292929;
+}
+
+
+.footer__wrapper{
+    display: flex;
+    background-color: #211F20;
+}
+
+.footer__content{
+    display: flex;
+}
+
+.footer .content__questions{
+    padding: 57px 0px 0 40px;
+}
+
+.footer__content a{
+    display: flex;
+}
+
+.footer__content h3{
+    font-size: 39px;
+    font-weight: 400;
+    font: 35px Georgia,serif;
+    letter-spacing: 2.2px;
+    line-height: 44px;
+    margin: 0;
+    color: white;
+}
+
+.email{
+    background-image: url(../assets/icon-email.svg);
+    width: 40px;
+    height: 29px;
+    display: inline-block;
+}
+
+.phone{
+    background-image: url(../assets/icon-phone.svg);
+    width: 40px;
+    height: 32px;
+    display: inline-block;
+}
+
+.location{
+    background-image: url(../assets/icon-marker.svg);
+    width: 22px;
+    height: 32px;
+    display: inline-block;
+}
+
+.footer .content__email{
+    padding: 40px 0 0 0;
+}
+
+.footer p{
+    font-size: 21px;
+    margin: 0;
+    color: #F1CDB3;
+}
+
+.footer .content__email p{
+    letter-spacing: 1.6px;
+    padding: 5px 0 0 21px;
+}
+
+.footer .content__phone{
+    padding: 42px 0 0 0;
+}
+
+.footer .content__phone p {
+    letter-spacing: 1.2px;
+    padding: 7px 0 0 20px;
+}
+
+.footer .content__address{
+    padding: 57px 0 0 159px;
+}
+
+.footer .address__1{
+    padding: 40px 0 0 0;
+}
+
+.footer .address__1 p{
+    padding: 0 0 0 18px;
+    margin-top: -6px;
+    letter-spacing: 1.8px;
+    line-height: 23px;
+}
+
+.footer .address__2{
+    padding: 33px 0 0 0;
+}
+
+.footer .address__2 p{
+    padding: 4px 0 0 19px;
+    letter-spacing: 1.4px;
+}
+
+.footer .footer__picture{
+    padding: 40px 0 0 169px;
+}
